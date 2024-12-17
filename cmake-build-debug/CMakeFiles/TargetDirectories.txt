@@ -1,0 +1,3 @@
+C:/Users/Tem ML.AI/CLionProjects/CSC450-1/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Tem ML.AI/CLionProjects/CSC450-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tem ML.AI/CLionProjects/CSC450-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
