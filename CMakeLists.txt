@@ -12,4 +12,10 @@ add_executable(untitled main.cpp
         Week2/Mouakongs_showcase.cpp
         Week2/Mouakongs_showcase.h
         Week3/PointersWithDynamicMemory.cpp
+        Week3/Incorrect_Pointers.cpp
+        Week3/Correct_pointers.cpp
+        Week3/Justins_code.cpp
+        Week3/\$_sign_demonstration.cpp
+        Week4/InputHandlingWithSpecialCharacters.cpp
+        Week5/FileHandlingWithReversal.cpp
 )

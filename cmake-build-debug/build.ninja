@@ -91,6 +91,42 @@ build CMakeFiles/untitled.dir/Week3/PointersWithDynamicMemory.cpp.obj: CXX_COMPI
   OBJECT_DIR = CMakeFiles\untitled.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Week3
 
+build CMakeFiles/untitled.dir/Week3/Incorrect_Pointers.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Projects/CSC450-1/Week3/Incorrect_Pointers.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\Week3\Incorrect_Pointers.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Week3
+
+build CMakeFiles/untitled.dir/Week3/Correct_pointers.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Projects/CSC450-1/Week3/Correct_pointers.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\Week3\Correct_pointers.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Week3
+
+build CMakeFiles/untitled.dir/Week3/Justins_code.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Projects/CSC450-1/Week3/Justins_code.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\Week3\Justins_code.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Week3
+
+build CMakeFiles/untitled.dir/Week3/$$_sign_demonstration.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Projects/CSC450-1/Week3/$$_sign_demonstration.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\Week3\$$_sign_demonstration.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Week3
+
+build CMakeFiles/untitled.dir/Week4/InputHandlingWithSpecialCharacters.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Projects/CSC450-1/Week4/InputHandlingWithSpecialCharacters.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\Week4\InputHandlingWithSpecialCharacters.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Week4
+
+build CMakeFiles/untitled.dir/Week5/FileHandlingWithReversal.cpp.obj: CXX_COMPILER__untitled_unscanned_Debug C$:/Projects/CSC450-1/Week5/FileHandlingWithReversal.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles\untitled.dir\Week5\FileHandlingWithReversal.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled.dir\Week5
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled
@@ -99,7 +135,7 @@ build CMakeFiles/untitled.dir/Week3/PointersWithDynamicMemory.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable untitled.exe
 
-build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/Week1/PersonInfoDisplay.cpp.obj CMakeFiles/untitled.dir/Week1/uninitialized_variable.cpp.obj CMakeFiles/untitled.dir/Week2/StringInput.cpp.obj CMakeFiles/untitled.dir/Week2/Kaylas_shocase.cpp.obj CMakeFiles/untitled.dir/Week2/Mouakongs_showcase.cpp.obj CMakeFiles/untitled.dir/Week3/PointersWithDynamicMemory.cpp.obj
+build untitled.exe: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.obj CMakeFiles/untitled.dir/Week1/PersonInfoDisplay.cpp.obj CMakeFiles/untitled.dir/Week1/uninitialized_variable.cpp.obj CMakeFiles/untitled.dir/Week2/StringInput.cpp.obj CMakeFiles/untitled.dir/Week2/Kaylas_shocase.cpp.obj CMakeFiles/untitled.dir/Week2/Mouakongs_showcase.cpp.obj CMakeFiles/untitled.dir/Week3/PointersWithDynamicMemory.cpp.obj CMakeFiles/untitled.dir/Week3/Incorrect_Pointers.cpp.obj CMakeFiles/untitled.dir/Week3/Correct_pointers.cpp.obj CMakeFiles/untitled.dir/Week3/Justins_code.cpp.obj CMakeFiles/untitled.dir/Week3/$$_sign_demonstration.cpp.obj CMakeFiles/untitled.dir/Week4/InputHandlingWithSpecialCharacters.cpp.obj CMakeFiles/untitled.dir/Week5/FileHandlingWithReversal.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled.dir

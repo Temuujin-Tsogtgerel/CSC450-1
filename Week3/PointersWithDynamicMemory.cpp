@@ -1,7 +1,3 @@
-//
-// Created by Tem ML.AI on 12/27/2024.
-//
-
 #include <iostream>
 #include <conio.h>  // For getch()
 
@@ -35,11 +31,23 @@ int main()
     cout << "Value 2: " << value2 << endl;
     cout << "Value 3: " << value3 << endl;
 
-    // Display the values stored in the pointers
-    cout << "\n--- Pointer Values ---" << endl;
+    // Display the addresses of the variables using & (address-of operator)
+    cout << "\n--- Variable Addresses ---" << endl;
+    cout << "Address of Value 1: " << &value1 << endl;
+    cout << "Address of Value 2: " << &value2 << endl;
+    cout << "Address of Value 3: " << &value3 << endl;
+
+    // Display the values stored in the pointers using * (dereference operator)
+    cout << "\n--- Pointer Values (Dereferencing) ---" << endl;
     cout << "Pointer 1 points to: " << *pointer1 << endl;
     cout << "Pointer 2 points to: " << *pointer2 << endl;
     cout << "Pointer 3 points to: " << *pointer3 << endl;
+
+    // Display the addresses the pointers are holding (using the pointers themselves)
+    cout << "\n--- Pointer Addresses ---" << endl;
+    cout << "Address stored in Pointer 1: " << pointer1 << endl;
+    cout << "Address stored in Pointer 2: " << pointer2 << endl;
+    cout << "Address stored in Pointer 3: " << pointer3 << endl;
 
     // Free the dynamically allocated memory
     delete pointer1;
