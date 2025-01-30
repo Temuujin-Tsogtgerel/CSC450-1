@@ -18,4 +18,9 @@ add_executable(untitled main.cpp
         Week3/\$_sign_demonstration.cpp
         Week4/InputHandlingWithSpecialCharacters.cpp
         Week5/FileHandlingWithReversal.cpp
+        Week5/Mutex.cpp
+        Week5/DataRaceExample.cpp
+        Week5/Manny.cpp
+        Week5/Scott.cpp
+        Week7/PortfolioProject_Part1.cpp
 )
